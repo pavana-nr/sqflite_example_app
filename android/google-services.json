@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "630475257981",
+    "project_id": "sqflite-example-app-1e5b5",
+    "storage_bucket": "sqflite-example-app-1e5b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630475257981:android:898a3351973bc57b831914",
+        "android_client_info": {
+          "package_name": "com.example.sqflite_example_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630475257981-rnspqa8b8dgg5fnpb1i69pq6454q1lqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDssnD2eNbXZouk12L1DlCAjqg-22WxWTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630475257981-rnspqa8b8dgg5fnpb1i69pq6454q1lqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

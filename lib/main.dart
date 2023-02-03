@@ -41,7 +41,7 @@ class MyApp extends StatelessWidget {
 }
 
 class Stack<T> {
-  List<T> _stack = [];
+  final List<T> _stack = [];
 
   void push(T item) => _stack.add(item);
   T pop() => _stack.removeLast();
